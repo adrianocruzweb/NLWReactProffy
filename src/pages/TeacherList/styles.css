@@ -56,7 +56,7 @@
     max-width: 100%;
   }
 
-  #seach-teachers {
+  #search-teachers {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: 16px;
